@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "A high-performance offline IP and Phone location query desktop application"
 authors = ["faceair"]
 edition = "2021"
+license = "MIT"
 
 [lib]
 name = "geoscope_lib"
